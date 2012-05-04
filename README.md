@@ -24,6 +24,11 @@ Same as above but with `else` statement
 
 Purpose: Use `else` statement with `if` from above
 
+## multi-tbl.c
+Creates a multiplication table
+
+Purpose Use `for` loops.
+
 # Challenge me
 Thought of something cool I should learn? Open an 
 [issue](https://github.com/BenChapman/Learning-C/issues) and I'll give
