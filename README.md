@@ -19,6 +19,11 @@ A program which calculates tax based on item value.
 
 Purpose: Use `if` statement
 
+## tax-else.c
+Same as above but with `else` statement
+
+Purpose: Use `else` statement with `if` from above
+
 # Challenge me
 Thought of something cool I should learn? Open an 
 [issue](https://github.com/BenChapman/Learning-C/issues) and I'll give

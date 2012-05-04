@@ -2,7 +2,6 @@
 
 main() {
     float cost, tax, luxury, total;
-    luxury = 0.0;
     
     printf("Enter the cost of the item: €");
     scanf("%f", &cost);
@@ -10,6 +9,9 @@ main() {
     
     if(cost > 50.0) {
         luxury = cost * 0.065;
+    } else {
+        puts("There is no luxury tax on this item");
+        luxury = 0.0;
     }
 
     total = cost + tax + luxury;
