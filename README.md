@@ -6,13 +6,16 @@ hopefully will progess quickly. Depends on how motivated I am I guess.
 
 ## number.c
 A program which reads a number using `scanf` and outputs it again.
+
 Purpose: Basic introduction
 
 ## pause.c
 A program which outputs some text then awaits a keypress before
-resuming
+resuming.
+
 Purpose: Demonstrate using another function
 
 ## tax.c
 A program which calculates tax based on item value.
+
 Purpose: Use `if` statement
